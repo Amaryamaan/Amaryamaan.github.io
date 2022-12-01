@@ -1,0 +1,66 @@
+#xodev-logo{
+          font-family: Bungee Shade;
+          font-size: 40px;
+}
+#heropic{
+          height: 500px;
+          width: 700px;
+}
+#get-started:hover{
+          border-radius: 2em;
+          background-color: blueviolet;
+          color: white;
+}
+.get-started:hover{
+          border-radius: 2em;
+          background-color: blueviolet;
+          color: white;
+}
+
+#hero-h1{
+          font-size: 60px;
+}
+#service-header{
+          text-align: left;
+          padding-bottom: 80px;
+}
+#service-header h2{
+          font-size: 25px;
+}
+#service-header p{
+          font-size: 50px;
+}
+.service-p{
+          padding-top: 20px;
+}
+#portfolio-header h2{
+          font-size: 25px;
+          margin: 70px 50px 30px;
+}
+#portfolio-header p{
+          font-size: 50px;
+}
+.portfolio-btn{
+          margin-top: 50px;
+          
+}
+.portfolio-btn ul li a{
+          margin: 50px;
+}
+
+#Aboutus{
+          padding-top: 100px;
+}
+.img-fluid{
+          margin: 0px;
+          width: 300px;
+
+}
+.logo-padding{
+          padding: 40px 0 20px;
+}
+#extraodev{
+          margin: 20px 0;
+          font-family: gilroy;
+          font-size: 20px;
+}
